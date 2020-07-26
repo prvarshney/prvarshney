@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hi there, I'm an Android & Full Stack Application developer with industry experience building android applications, websites and web applications. I specialize in Java and have professional experience working with JavaScript, Python and React. I also have experience working with Web Scrapping, Desktop Application Development, Automation, IoT, UI/UX Designing and Logo Designing. Feel free to look at my latest projects on my web portfolio page. 
+ # About Me
+ I'm an Android & Full Stack Application developer with industry experience building android applications, websites and web applications. I specialize in Java and have professional experience working with JavaScript, Python and React. I also have experience working with Web Scrapping, Desktop Application Development, Automation, IoT, UI/UX Designing and Logo Designing. Feel free to look at my latest projects on my web portfolio page. 
