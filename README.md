@@ -13,7 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # About Me
- I'm an Android & Full Stack Application developer with industry experience building android applications, websites and web applications. I specialize in Java and have professional experience working with JavaScript, Python and React. I also have experience working with Web Scrapping, Desktop Application Development, Automation, IoT, UI/UX Designing and Logo Designing. 
- ***Feel free to look at my latest projects on my [web portfolio page](http://alphacoder.me/)***. 
+I create tech content on System Design, API optimization, Artificial Intelligence, and productivity while mentoring software engineers to crack product-based interviews and conducting mock interviews.
+
+I'm a Senior Software Engineer passionate about building scalable systems, optimizing APIs, and boosting performance. With my expertise, I design high-performance applications and lead teams that power millions.
+
+What I Do:
+1. System Design & Scalability – Designing robust, high-traffic systems.
+
+2. API & Frontend Optimization – Speed, performance, and efficiency.
+
+3. AI & Tech Innovations – Exploring AI, LLMs, and cutting-edge tools.
+
+4. Tech Mentorship & Career Growth – Helping engineers level up!
+
+Let’s connect and build something amazing! *** [LinkedIn](https://www.linkedin.com/in/buildwithprashant/)***. 
 
 ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=prvarshney&show_icons=true)
